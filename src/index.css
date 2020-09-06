@@ -152,3 +152,18 @@ body {
   font-size: 31px;
   padding-top: 30px;
 }
+
+.logos{
+  text-align: center;
+  margin: auto;
+  display: flex;
+}
+
+.logo{
+ width: 50%;
+}
+
+.top{
+  text-align: center;
+  margin-top: 10px;
+}
